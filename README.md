@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**sidbfz/sidbfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#tldr:ai entrepreneur gamifying life through an innovative app that turns personal growth into a game.
 
-Here are some ideas to get you started:
+# today
+-building a new startup in pune, gamifying life through an ai-powered app
+-working on an app to turn personal growth into a real-life rpg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# past ventures
+-selected as one of the top 20 in a state-level ideation competition at 18
+-started his first startup, now developing a new project
+
+# creative hobbies
+-enjoys filmmaking and acting in his free time
+-passionate about turning life into a game
